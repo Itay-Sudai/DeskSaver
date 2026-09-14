@@ -1,6 +1,10 @@
 Started this project to solve a problem I was facing, then added more features as a challenge for myself.
 Uploading the project here so it won't get lost.
 
+This is aprogram that allows users to save their entire desktop workspace as a preset and restore it later. Users can create multiple presets for different activities, such as studying, programming, or gaming, and access their saved presets from other connected computers.
+
+How to use:
+
 There are two main programs to:
 Offline version - Download - Desk_GUI.py , DeskSaver_Disk.py and main.py
 Run main.py and a window will open up.
@@ -19,3 +23,5 @@ presets that are saved in the server are only visible to the user who uploaded t
 Now, you can log on to the server from a different machine, download a preset and use it with the offline version.
 
 there are some python libraries that you will need to install in order to run the programs. View them in the code.
+
+note: this is a personal - self taught project that I didn't account for others to use at first so problems may occur..
