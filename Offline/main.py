@@ -1,3 +1,4 @@
+# This file launches the offline version
 from Desksaver_Disk import *
 from Desk_GUI import *
 
